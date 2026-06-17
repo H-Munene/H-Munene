@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fce4ec,50:f8bbd0,100:f48fb1&height=180&section=header&text=HEZEKIAH+M.+MUNENE&fontSize=40&fontColor=880e4f&fontAlignY=38&desc=Mobile+Application+Engineer+%7C+AWS+%7C+GCP+%7C+Flutter&descAlignY=58&descColor=ad1457&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e3f2fd,50:90caf9,100:42a5f5&height=180&section=header&text=HEZEKIAH+M.+MUNENE&fontSize=40&fontColor=0d47a1&fontAlignY=38&desc=Mobile+Application+Engineer+%7C+AWS+%7C+GCP+%7C+Flutter&descAlignY=58&descColor=1565c0&animation=fadeIn" />
 </p>
 
 # Hi there, I'm Hezekiah 👋
@@ -15,42 +15,42 @@ Final-year Informatics and Computer Science student at Strathmore University bui
 ## Technical Ecosystem
 
 ### Core Stack
-<img src="https://img.shields.io/badge/Dart-e91e8c?style=for-the-badge&logo=dart&logoColor=white" />
-<img src="https://img.shields.io/badge/Flutter-d81b60?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-e91e63?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-f06292?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-ec407a?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-1565c0?style=for-the-badge&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-1976d2?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-1e88e5?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-2196f3?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-42a5f5?style=for-the-badge&logo=postgresql&logoColor=white" />
 
 ### APIs, Backend & Data
-<img src="https://img.shields.io/badge/Supabase-f48fb1?style=for-the-badge&logo=supabase&logoColor=880e4f" />
-<img src="https://img.shields.io/badge/Firebase-f06292?style=for-the-badge&logo=firebase&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLite-e91e63?style=for-the-badge&logo=sqlite&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_APIs-d81b60?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/M--Pesa_Daraja-ad1457?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Mapbox-880e4f?style=for-the-badge&logo=mapbox&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-90caf9?style=for-the-badge&logo=supabase&logoColor=0d47a1" />
+<img src="https://img.shields.io/badge/Firebase-1976d2?style=for-the-badge&logo=firebase&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-1565c0?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_APIs-1e88e5?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/M--Pesa_Daraja-0d47a1?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Mapbox-1565c0?style=for-the-badge&logo=mapbox&logoColor=white" />
 
 ### Cloud & Infrastructure
-<img src="https://img.shields.io/badge/AWS-f06292?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/GCP-ec407a?style=for-the-badge&logo=googlecloud&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-e91e63?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-d81b60?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-f48fb1?style=for-the-badge&logo=postman&logoColor=880e4f" />
-<img src="https://img.shields.io/badge/VS_Code-ad1457?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/Android_Studio-880e4f?style=for-the-badge&logo=androidstudio&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-e91e63?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-1976d2?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/GCP-2196f3?style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-1e88e5?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-0d47a1?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-90caf9?style=for-the-badge&logo=postman&logoColor=0d47a1" />
+<img src="https://img.shields.io/badge/VS_Code-1565c0?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Android_Studio-1976d2?style=for-the-badge&logo=androidstudio&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-2196f3?style=for-the-badge&logo=figma&logoColor=white" />
 
 ---
 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=H-Munene&show_icons=true&hide_border=true&bg_color=fce4ec&title_color=880e4f&icon_color=e91e63&text_color=ad1457&rank_icon=github" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=H-Munene&show_icons=true&hide_border=true&bg_color=e3f2fd&title_color=0d47a1&icon_color=1976d2&text_color=1565c0&rank_icon=github" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=H-Munene&layout=compact&hide_border=true&bg_color=fce4ec&title_color=880e4f&text_color=ad1457" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=H-Munene&layout=compact&hide_border=true&bg_color=e3f2fd&title_color=0d47a1&text_color=1565c0" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=H-Munene&bg_color=fce4ec&color=ad1457&line=e91e63&point=880e4f&area=true&area_color=f8bbd0&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=H-Munene&bg_color=e3f2fd&color=1565c0&line=1976d2&point=0d47a1&area=true&area_color=90caf9&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
@@ -61,5 +61,5 @@ Final-year Informatics and Computer Science student at Strathmore University bui
 - 📧 **Direct Contact:** hezemunene01@gmail.com
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f48fb1,50:f8bbd0,100:fce4ec&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:42a5f5,50:90caf9,100:e3f2fd&height=100&section=footer" />
 </p>
