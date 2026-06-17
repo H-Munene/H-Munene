@@ -31,8 +31,6 @@ I am a Final-year Informatics and Computer Science student at Strathmore Univers
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Android_SDK-34A853?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Provider-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/BLoC-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
 
 ### APIs, Backend & Data
