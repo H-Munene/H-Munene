@@ -1,65 +1,75 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e3f2fd,50:90caf9,100:42a5f5&height=180&section=header&text=HEZEKIAH+M.+MUNENE&fontSize=40&fontColor=0d47a1&fontAlignY=38&desc=Mobile+Application+Engineer+%7C+AWS+%7C+GCP+%7C+Flutter&descAlignY=58&descColor=1565c0&animation=fadeIn" />
+<h1 align="left"><code>HEZEKIAH</code></h1>
+<p align="left">
+  <sub>M. Munene &nbsp;·&nbsp; Mobile Application Engineer &nbsp;·&nbsp; Nairobi, Kenya</sub>
 </p>
 
-# Hi there, I'm Hezekiah 👋
+<br>
 
-Final-year Informatics and Computer Science student at Strathmore University building production-grade mobile applications in Flutter/Dart. I'm drawn to problems at the intersection of mobile UX, real-world data, and backend integration — particularly where the solution has to work reliably for real people in real environments.
+<p><sub><b>ABOUT</b></sub></p>
 
-- 🔭 **Current Focus:** Building a fraud-resistant caregiver visit verification system for Mzazi Care — integrating GPS geofencing, FaceNet512 biometric co-presence detection, and an on-device acoustic cognitive monitoring pipeline (TFLite) trained on the DementiaNet corpus.
-- 🌱 **Learning & Exploration:** Classical ML pipelines for audio (MFCCs, spectral features, openSMILE), TFLite model export and on-device inference, and Supabase Row Level Security patterns for tamper-resistant audit trails.
-- ⚡ **Core Interests:** Cross-platform mobile engineering, geo-aware applications, fintech/M-Pesa integrations, and applied ML on mobile.
-
----
-
-## Technical Ecosystem
-
-### Core Stack
-<img src="https://img.shields.io/badge/Dart-1565c0?style=for-the-badge&logo=dart&logoColor=white" />
-<img src="https://img.shields.io/badge/Flutter-1976d2?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-1e88e5?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-2196f3?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-42a5f5?style=for-the-badge&logo=postgresql&logoColor=white" />
-
-### APIs, Backend & Data
-<img src="https://img.shields.io/badge/Supabase-90caf9?style=for-the-badge&logo=supabase&logoColor=0d47a1" />
-<img src="https://img.shields.io/badge/Firebase-1976d2?style=for-the-badge&logo=firebase&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLite-1565c0?style=for-the-badge&logo=sqlite&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_APIs-1e88e5?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/M--Pesa_Daraja-0d47a1?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Mapbox-1565c0?style=for-the-badge&logo=mapbox&logoColor=white" />
-
-### Cloud & Infrastructure
-<img src="https://img.shields.io/badge/AWS-1976d2?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/GCP-2196f3?style=for-the-badge&logo=googlecloud&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-1e88e5?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-0d47a1?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-90caf9?style=for-the-badge&logo=postman&logoColor=0d47a1" />
-<img src="https://img.shields.io/badge/VS_Code-1565c0?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/Android_Studio-1976d2?style=for-the-badge&logo=androidstudio&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-2196f3?style=for-the-badge&logo=figma&logoColor=white" />
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=H-Munene&show_icons=true&hide_border=true&bg_color=e3f2fd&title_color=0d47a1&icon_color=1976d2&text_color=1565c0&rank_icon=github" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=H-Munene&layout=compact&hide_border=true&bg_color=e3f2fd&title_color=0d47a1&text_color=1565c0" alt="Top Languages" />
+<p>
+Final-year BSc Informatics &amp; Computer Science student at Strathmore University.<br>
+I build cross-platform mobile applications — with a focus on geo-aware systems,<br>
+fintech integrations, and applied ML inference on-device.
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=H-Munene&bg_color=e3f2fd&color=1565c0&line=1976d2&point=0d47a1&area=true&area_color=90caf9&hide_border=true" alt="Contribution Graph" />
+<br>
+
+<p><sub><b>STACK</b></sub></p>
+
+<pre>
+mobile   →  Flutter · Dart · Java · Android Studio
+backend  →  Supabase · Firebase · REST APIs · Python · SQL
+data     →  SQLite · M-Pesa Daraja API · Mapbox · TFLite
+cloud    →  AWS · GCP
+tools    →  Git · Postman · Figma
+</pre>
+
+<br>
+
+<p><sub><b>PROJECTS</b></sub></p>
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tr>
+    <td style="padding: 16px 20px; border: 1px solid #EF9F27; border-top: 3px solid #BA7517; border-radius: 0 0 6px 6px;">
+      <p><b>Geocent</b></p>
+      <p>Geo-verified personal finance tracker. Auto-parses M-Pesa &amp; Equity SMS, maps each transaction to GPS coordinates, renders live Mapbox heatmaps. SQLite local store with Supabase sync.</p>
+      <p><code>Flutter · Dart · Mapbox · Supabase · SQLite · M-Pesa Daraja API</code></p>
+      <p><a href="https://github.com/H-Munene/geocent">github.com/H-Munene/geocent →</a></p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tr>
+    <td style="padding: 16px 20px; border: 1px solid #EF9F27; border-top: 3px solid #BA7517; border-radius: 0 0 6px 6px;">
+      <p><b>Mzazi Care — ICS Capstone</b></p>
+      <p>Fraud-resistant caregiver visit verification for home eldercare. GPS geofencing, FaceNet512 facial co-presence biometrics, on-device TFLite acoustic cognitive classifier trained on DementiaNet. Supabase backend with tamper-resistant audit trail via Row-Level Security.</p>
+      <p><code>Flutter · Supabase · FaceNet512 · TFLite · GPS · Python · ML</code></p>
+      <p><sub>In progress · Strathmore University ICS II</sub></p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<p><sub><b>CURRENTLY</b></sub></p>
+
+<p>
+Finalising the <b>Mzazi Care</b> capstone — integrating the DementiaNet-trained audio
+classifier export pipeline into TFLite and hardening the Supabase RLS audit trail.
+Supervised by Dr. Joseph Onderi Orero, Strathmore University.
 </p>
 
----
+<br>
 
-## Connect With Me
+<p><sub><b>CONNECT</b></sub></p>
 
-- 💼 **LinkedIn:** [linkedin.com/in/hezekiahmuirurimunene](https://www.linkedin.com/in/hezekiahmuirurimunene)
-- 📧 **Direct Contact:** hezemunene01@gmail.com
+<p><a href="https://linkedin.com/in/hezekiahmuirurimunene">linkedin.com/in/hezekiahmuirurimunene</a></p>
+<p><a href="mailto:hezemunene01@gmail.com">hezemunene01@gmail.com</a></p>
+<p><a href="https://github.com/H-Munene">github.com/H-Munene</a></p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:42a5f5,50:90caf9,100:e3f2fd&height=100&section=footer" />
-</p>
+<br>
+<sub>Nairobi · Kenya · 2025</sub>
