@@ -65,8 +65,6 @@ I am a Final-year Informatics and Computer Science student at Strathmore Univers
   <img src="https://img.shields.io/badge/librosa-8B4513?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ### Cloud & Infrastructure
