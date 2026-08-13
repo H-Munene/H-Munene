@@ -92,9 +92,13 @@ I am a Final-year Informatics and Computer Science student at Strathmore Univers
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=H-Munene&show_icons=true&hide_border=true&bg_color=e3f2fd&title_color=0d47a1&icon_color=1976d2&text_color=1565c0&rank_icon=github" alt="GitHub Stats" />
+  <img src="./profile/stats.svg" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=H-Munene&layout=compact&hide_border=true&bg_color=e3f2fd&title_color=0d47a1&text_color=1565c0" alt="Top Languages" />
+  <img src="./profile/top-langs.svg" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
