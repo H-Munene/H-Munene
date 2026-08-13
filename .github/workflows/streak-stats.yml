@@ -1,4 +1,4 @@
-name: Update streak stats
+name: Commit and push changes
 
 on:
   schedule:
@@ -29,5 +29,6 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile/streak.svg
-          git commit -m "Update streak stats" || exit 0
-          git push
+          git commit -m "Update streak stats" || echo "No changes to commit"
+          git pull --rebase origin main
+          git push origin main
